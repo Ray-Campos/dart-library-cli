@@ -6,10 +6,10 @@ Um aplicativo de interface de linha de comando (CLI) construído com Dart para g
 
 ## Funcionalidades
 
-* **Fluxos Baseados em Papéis:** Interfaces distintas para administradores e usuários comuns.
+ **Fluxos Baseados em Papéis:** Interfaces distintas para administradores e usuários comuns.
 
 
-* **Painel do Administrador:**
+ **Painel do Administrador:**
 * Gerenciamento completo (CRUD) de Usuários com papéis específicos (STUDENT, PROFESSOR, EXTERNAL).
 
 
@@ -22,7 +22,7 @@ Um aplicativo de interface de linha de comando (CLI) construído com Dart para g
 * Relatórios de Empréstimos (histórico global, empréstimos ativos, consultas por ID de usuário e por ID de livro).
 
 
-* **Painel do Usuário:**
+ **Painel do Usuário:**
 * Meu Perfil (consulta de status e verificação de bloqueios ativos).
 * Consultar o acervo disponível.
 
