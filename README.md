@@ -2,7 +2,7 @@
 
 Um aplicativo de interface de linha de comando (CLI) construído com Dart para gerenciar um sistema de biblioteca. Este projeto atua como o consumidor (client-side) para uma API REST centralizada, substituindo a persistência tradicional baseada em arquivos por uma arquitetura moderna cliente-servidor.
 
-> **Backend API:** [placeholder]
+> **Backend API:** [springboot-library-api](https://github.com/Ray-Campos/springboot-library-api)
 
 ## Funcionalidades
 
@@ -47,12 +47,14 @@ Um aplicativo de interface de linha de comando (CLI) construído com Dart para g
 ## Instalação
 
 1. Clone este repositório.
+```bash
+git clone https://github.com/Ray-Campos/dart-library-cli
+cd library-cli
+
+```
 
 
-2. Navegue até o diretório raiz do projeto.
-
-
-3. Instale as dependências necessárias:
+2. Instale as dependências necessárias:
 
 
 
