@@ -1,3 +1,5 @@
+//Useless file, but I will keep it for now in case I need to use it later. I will use the services instead of this file.
+
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 
@@ -7,7 +9,7 @@ import '../models/book_copy.dart';
 import '../models/loan.dart';
 
 class ApiClient {
-  static const String baseUrl = 'http://localhost:8080/api';
+  static const String baseUrl = 'http://localhost:8081/api';
   final Map<String, String> headers = {'Content-Type': 'application/json'};
 
   // User Endpoints

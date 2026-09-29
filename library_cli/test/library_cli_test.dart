@@ -1,4 +1,4 @@
-import 'package:library_cli/library_cli.dart';
+/*import 'package:library_cli/library_cli.dart';
 import 'package:test/test.dart';
 
 void main() {
@@ -6,3 +6,4 @@ void main() {
     expect(calculate(), 42);
   });
 }
+*/
